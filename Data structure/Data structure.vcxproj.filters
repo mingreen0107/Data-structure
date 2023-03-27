@@ -15,13 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="p25.c">
+    <ClCompile Include="p66.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="p27.c">
+    <ClCompile Include="p70.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="p29.c">
+    <ClCompile Include="p75.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="p76.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
